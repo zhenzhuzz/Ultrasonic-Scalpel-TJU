@@ -52,8 +52,8 @@
 ### 2. 刀杆有限元建模与应力分析
 
 <div align="center">
-  <img src="Media/图3-3  超声手术刀刀杆有限元模型示意图.jpg" width="48%">
-  <img src="Media/图3-9  阶梯杆轴向应力分布.png" width="48%">
+  <img src="Media/图3-3 超声手术刀刀杆有限元模型示意图.jpg" width="48%">
+  <img src="Media/图3-9 阶梯杆轴向应力分布.png" width="48%">
 </div>
 <p align="center">▲ 左：超声手术刀刀杆有限元模型；右：阶梯杆轴向应力分布</p>
 
@@ -62,8 +62,8 @@
 ### 3. 模态分析与优化结构
 
 <div align="center">
-  <img src="Media/图3-18  带斜槽的超声手术刀刀杆的二阶纵振频率和模态振型.png" width="48%">
-  <img src="Media/图4-6  带法兰的超声手术刀纵振频率和模态振型.png" width="48%">
+  <img src="Media/图3-18 带斜槽的超声手术刀刀杆的二阶纵振频率和模态振型.png" width="48%">
+  <img src="Media/图4-6 带法兰的超声手术刀纵振频率和模态振型.png" width="48%">
 </div>
 <p align="center">▲ 左：带斜槽刀杆二阶纵振频率与模态；右：带法兰整体结构纵振模态</p>
 
